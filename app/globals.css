@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #F7F2EA;
+  --ink: #1C1917;
+  --vermillion: #C0392B;
+  --cream: #EFE8DC;
+}
+
+
+
