@@ -215,9 +215,8 @@ http://localhost:3000
 
 # 👨‍💻 Developed By
 
-**Divyanshu Singh**
+**Divyanshu Negi**
 
-Frontend Developer | React Developer | Next.js Enthusiast
 
 ---
 
@@ -229,6 +228,3 @@ Your support helps motivate future open-source projects.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
